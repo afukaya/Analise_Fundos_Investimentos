@@ -1,0 +1,5 @@
+#Vitrual environment directory
+.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
