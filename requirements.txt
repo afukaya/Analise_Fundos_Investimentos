@@ -25,7 +25,7 @@ pandas==1.4.2
 parso==0.8.3
 patsy==0.5.2
 pickleshare==0.7.5
-Pillow==9.1.0
+Pillow==9.3.0
 prompt-toolkit==3.0.29
 psutil==5.9.0
 pure-eval==0.2.2
