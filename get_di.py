@@ -58,4 +58,4 @@ cookies = {
 }
 
 req = requests.post(url,data = parameters,headers = req_headers, cookies = cookies)
-print(req.status_code())
+print(req.status_code)
